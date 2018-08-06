@@ -6,6 +6,8 @@ public class MainClass {
 		
 		System.out.println("Hello World");
 		great();
+		Sales s = new Sales();
+		s.show();
 	}
 	
 	public static void great()
