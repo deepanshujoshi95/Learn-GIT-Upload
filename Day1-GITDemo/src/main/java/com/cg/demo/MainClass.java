@@ -8,6 +8,7 @@ public class MainClass {
 		great();
 		Sales s = new Sales();
 		s.show();
+		System.out.println("My name is Deepanshu Joshi");
 	}
 	
 	public static void great()
