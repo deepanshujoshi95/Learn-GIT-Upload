@@ -8,9 +8,11 @@ public class MainClass {
 		great();
 		Sales s = new Sales();
 		s.show();
-		System.out.println("My name is Deepanshu Joshi");
+		System.out.println("My name is DJ");
 		System.out.println("6-M-1 Jawahar Nagar");
+		System.out.println("I am from RJ13");
 		System.out.println("I am Learning GIT Branching");
+		System.out.println("8955539814");
 	}
 	
 	public static void great()
